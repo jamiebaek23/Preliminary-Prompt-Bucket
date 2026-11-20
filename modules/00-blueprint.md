@@ -6,28 +6,28 @@ It was written for admissions tests, where it took a score from the middle of th
 
 ## 1. The aim
 
-Run from the average as far as possible.
+Run away from the average as far as possible. Common people run towards the mean and end up clustering in the middle, when they should be running away from the middle and maximise their standard deviation and protect that at all cost. In fact, it is ideal to take a transcendent approach and go beyond into higher dimensions, by rising into an orthogonal plane relative to the rest of the people.
 
-Normal advice produces normal actions, and normal actions produce normal results. "Do more of it", "sit papers under timed conditions", "work harder" are normal advice. The aim here is anomalous: full marks, in a fraction of the time. Aim at ten times what currently seems possible.
+Normal advice produces normal actions, and normal actions produce normal results. "Just do more of it", "sit papers under timed conditions", "work harder" are normal advice. The aim here is anomalous: full marks, in a fraction of the time. Aim at ten times what currently seems possible.
 
 ## 2. The mission statement
 
 BUILD REACTION CIRCUITS, SO THAT I REACT A CERTAIN WAY WHEN I READ THE QUESTION'S COMMAND TERMS.
 
-Every session, every question, and every piece of feedback serves this sentence.
+Every session, every question, and every piece of feedback must directly contribute to reinforcing the vector that this sentence embeds.
 
-## 3. Glossary
+## 3. Glossary (These may ostensibly look like tautologies, but they're really not!)
 
-- Command terms: the guiding lights a question gives. Certain expressions, certain combinations of functions, certain word choices ("line" instead of $f(x)$, "circle" instead of an equation). The way a question is presented nudges the solver toward the intended route. Setters rarely try to trick. The first half of the mission is to recognise these cues from presentation alone.
-- Reaction circuit: a trained, automatic chain from cue to move. When a command term is recognised, the solver reacts in a specific way, usually by writing a specific expression. Once installed, circuits are the algorithm that runs on any question.
-- Canonical set: the small set of official, highest-quality problems for the target (for an exam, its past papers).
-- Model answer: the written ideal solution.
-- Ideal thought process: the chain of thoughts that produces the model answer. It is a different object from the model answer and is almost never written down.
-- Bifurcation point: the first line where the solver's reasoning and the ideal thought process split into two paths.
-- Critical thought: the thought that had to be self-generated at the bifurcation point to stay on the ideal path. It can be a sentence, a question, or a non-verbal expression.
-- Zombie maths: brute force. Pushing symbols with the most primitive method available without thinking about how the question wants to be solved.
-- Circuit bank: the written collection of every extracted circuit and decision rule.
-- Backtesting: replaying a finished attempt against a fixed checklist, as one backtests a trading strategy.
+- COMMAND TERMS: the guiding lights a question gives. Certain expressions, certain combinations of functions, certain word choices ("line" instead of $f(x)$, "circle" instead of an equation). The way a question is presented nudges the solver toward the intended route. Setters rarely try to trick. The first half of the mission is to recognise these cues from presentation alone.
+- REACTION CIRCUITS: a trained, automatic chain from cue to move. When a command term is recognised, the solver reacts in a specific way, usually by writing a specific expression. Once installed, circuits are the algorithm that runs on any question.
+- CANONICAL SETS: the small set of official, highest-quality problems for the target (for an exam, its past papers).
+- MODEL ANSWERS: the written ideal solutions (at least ideal for now).
+- IDEAL THOUGHT PROCESSES: the chain of thoughts that produces the model answer. It is a different object from the model answer and is almost never written down.
+- BIFURCATION POINT: the first line where the solver's reasoning and the ideal thought process split into two paths.
+- CRITICAL THOUGHT: quite literally, the CRITICAL THOUGHT that had to be self-generated at the bifurcation point to stay on the ideal path. It can be a sentence, a question, or a non-verbal expression. I sometimes call this the key revelation.
+- ZOMBIE MATHS: brute force. Pushing symbols with the most primitive method available without thinking about how the question wants to be solved.
+- CIRCUIT BANK: the written collection of every extracted circuit and decision rule.
+- BACKTESTING: replaying a finished attempt against a fixed checklist, as one backtests a trading strategy.
 
 This is a skill, not a talent. It is consciously trainable.
 
