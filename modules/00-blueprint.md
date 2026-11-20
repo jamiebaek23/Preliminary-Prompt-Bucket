@@ -60,7 +60,7 @@ Other materials are not bad. The order is what goes wrong, and it goes wrong fro
 
 ## 5. Six beliefs, inverted
 
-1. "Do as much as possible and the results take care of themselves." Volume without extraction is how strong students score in the middle.
+1. "Do as much as possible and the results take care of themselves." Volume without extraction is how strong students score in the middle. (Of Course Volume is a parameter that we should optimise, and it has one of the most dominant weighing factors)
 2. "I will do what I am assigned." Assigned volume with no mission statement is labour, not training.
 3. "My circumstances are different, so my target is different." The method and the height of the aim do not depend on background.
 4. "I will drill papers under timed conditions and hope." Timing without analysis is a rehearsal of the current level. It improves nothing.
