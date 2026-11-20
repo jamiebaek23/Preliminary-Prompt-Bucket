@@ -14,7 +14,7 @@ Normal advice produces normal actions, and normal actions produce normal results
 
 BUILD REACTION CIRCUITS, SO THAT I REACT A CERTAIN WAY WHEN I READ THE QUESTION'S COMMAND TERMS.
 
-Every session, every question, and every piece of feedback must directly contribute to reinforcing the vector that this sentence embeds.
+Every session, every question, and every piece of feedback must directly contribute to reinforcing the vector that this sentence encapsulates.
 
 ## 3. Glossary (These may ostensibly look like tautologies, but they're really not!)
 
@@ -29,14 +29,23 @@ Every session, every question, and every piece of feedback must directly contrib
 - CIRCUIT BANK: the written collection of every extracted circuit and decision rule.
 - BACKTESTING: replaying a finished attempt against a fixed checklist, as one backtests a trading strategy.
 
-This is a skill, not a talent. It is consciously trainable.
+This is a skill/acquirable talent. It is consciously trainable with deliberate practice, scaling volume of failures, and having extracting revelations from feedback loops.
 
 ## 4. Two kinds of preparation
 
-1. Skillset development (80% of the effort). Private work: drills, analysis, building the core.
-2. Performance (20%). The live game: timed, one attempt, under pressure.
+1. Skillset development (80% of the effort). Private work: drills, analysis, building the core. 
+(Isomorphic to system 2: Slow and Deliberate)
+• How it works: Requires conscious attention, mental effort, and logical reasoning.
+• Role: Takes over for complex calculations, unfamiliar problems, self-control, and checking System 1 impulses.
+• Trade-off: More thorough, but tires easily and often stays passive unless actively engaged.
 
-An athlete trains in the gym and plays matches. Nobody believes matches alone are the best training. Most students reverse this and treat timed sittings as the main practice.
+2. Performance (20%). The live game: timed, one attempt, under pressure. 
+(Isomorphic to System 1: Fast and Intuitive)
+• How it works: Operates automatically, unconsciously, and with little or no effort.
+• Role: Handles everyday pattern recognition, gut reactions, and routine habits.
+• Trade-off: Efficient and constant, but prone to cognitive biases and quick errors.
+
+An athlete trains in the gym 6 days and week, and plays matches once a week. Nobody believes matches alone are the best training. Most students reverse this and treat timed sittings as the main practice. But also, with the recent trends, I think the latter aspect also needs attention, and also high focus when executed. When I say high focus, I am also intending high pressure, high stakes, actual visualisation that this is the most important task in my life.
 
 The governing rule:
 
