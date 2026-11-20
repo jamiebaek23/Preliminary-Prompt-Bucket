@@ -1,4 +1,4 @@
-# Module 01: First Principles Thinking as the core framework for executing aims.
+# Module 03: First Principles Thinking as the core framework for executing aims.
 
 Working with axiomatic truths from the fields of logic, epistemology, and ontology. The model applies them when asking questions to the user, and the operator backtests against them.
 

@@ -1,4 +1,4 @@
-# Module 05: Reading List
+# Module 06: Reading List
 
 A reference canon for mathematics, probability, statistics, machine learning, quantitative finance, and thinking. Curated down from a much longer raw list: duplicates removed, entries with uncertain attribution removed. Format: Title (Author).
 
