@@ -1,84 +1,57 @@
-# Module 05: Self-Command
+# Module 05: How a Commander Fails
 
-Decision and execution discipline, distilled from a catalogue of 200 command failures in military leadership and kept where it transfers to solving problems, running projects, and leading a small team. Each line is a failure and its fix. This module is for the operator; the model uses it only when asked for a strategy review.
+200 ways, and I am the commander. For the operator; the model uses it only when asked for a strategy review.
 
-## Intent
+I went through the mistakes that military leaders make, all 200 of them, because whether it is a company or a team of supervisors or just me commanding myself through a day, it is the same thing. You are leading something. And the ways that leaders fail are so consistent that you can just learn them in advance and not have to pay for them yourself. So here they are, all thirteen groups, written the way I would say them to myself.
 
-1. Vague intent. Fix: purpose, method, end state, in one paragraph. Then cut half the words.
-2. No measure of success. Fix: define in advance how you will know you are winning.
-3. Everything is a priority. Fix: name the main effort, give it the resources, accept risk elsewhere.
-4. Changing the objective silently. Fix: state the change and the reason.
+## 1. How you talk.
 
-## Decisions
+Most of what goes wrong starts with you not being clear. You over explain, or you assume everybody already shares the picture in your head, when you should be able to say the purpose, the end state and the key tasks in one breath. Write the order down and then cut half the words, and if the person in front of you cannot say your intent back to you, then you did not communicate, you just made sounds. Notice that I said intent and not tasks, because somebody who is competent can still have understood nothing. Share everything that people need in order to act, because hoarding information is ego and control and nothing else. Speak last. Ask what am I missing, and actually ask for the strongest argument against you before you decide, because silence is not agreement, it is usually people being intimidated, so make them say yes or no out loud. Bad news has to be delivered fast and factual with the next step attached, not late and softened so that you look good. Do not speak in absolutes when you are actually uncertain, just say how confident you are and what you are assuming. When you change the plan, say why. Praise in public, correct in private, and never punish the messenger, because the one time that you blow up at someone for telling you the truth is the last time anyone tells you the truth. Anything that really matters gets said by voice or face to face and not buried in a text. Watch the room, because silence is data. And every single action ends with the same question, what did we learn.
 
-5. Analysis paralysis. Fix: time-box. 70% of the information is enough.
-6. Deciding too fast. Fix: identify the one critical unknown first.
-7. Anchoring. Fix: deliberately look for the evidence that disconfirms the first idea.
-8. Sunk cost. Fix: "If I were starting today, would I do this?"
-9. No second-order thinking. Fix: ask "and then what?" three times.
-10. Preference over mission. Fix: write the decision criteria before the options.
-11. Copying the last success. Fix: ask what is different this time.
-12. No decision points. Fix: predefine the trigger that switches plan.
-13. Deciding under emotion. Fix: commit to the process beforehand.
+## 2. How you decide.
 
-## Plans
+There are two ways to die here and they are opposites. One is that you freeze because you are scared of being wrong, and the fix is that you put a clock on the decision and accept that 70% of the information is enough. The other is that you jump because you love action, and the fix is that you find the one unknown that actually matters before you move. Past that, it is all the biases that you already know and still fall for. You anchor on the first thing you heard, so go and look for the evidence that says you are wrong. You keep going with a plan because you already poured so much into it, so ask yourself, if I was starting today, would I do this. You decide based on what you like instead of what the mission needs, so write the criteria down before you look at the options. You copy the last thing that worked without asking what is different this time. You only think one step ahead, so force yourself to say and then what, three times. Assume that the opponent is as smart and as motivated as you are. Use the real numbers for your own strength and not the hopeful ones. Start every estimate with the environment and not with yourself. Decide in advance what would trigger a change of plan, plan for the plan to fail, do not micromanage the decisions that belong to someone below you, and do not hand off the hard calls that are yours alone. And do not make big decisions when you are emotional, commit to the process beforehand.
 
-14. Plan as fact. Fix: a plan is a hypothesis. Update it with reality.
-15. No branches. Fix: "If X, then Y", written in advance.
-16. No contingency. Fix: plan for the plan to fail.
-17. Map time versus real time. Fix: add a 50% friction buffer.
-18. No red team. Fix: list the assumptions, challenge each. Fifteen minutes of attack saves hours.
-19. Failing to exploit success. Fix: plan the pursuit before the win.
-20. Not learning from the last operation. Fix: every action ends with "What did we learn?", and the answer changes the next action.
+## 3. How you hand things off.
 
-## Information
+Either you micromanage because you do not trust anybody, or you do not delegate at all because you think you can do it better and faster, and both of those are the same disease. Define the outcome and not the method, and then inspect the result. If the task does not need you specifically, then it is not yours. But when you hand something off, hand off the authority and the resources and the context with it, because responsibility without those three is just setting somebody up to fail. Say exactly where the boundary is, you own this until this happens. Do not take it back the moment you get impatient, let them fail once if the cost is bearable, and do not punish honest mistakes, because negligence and learning are two different things. Give people things that are a little beyond what they can currently do. Do not only delegate the unpleasant work. Check in at the key points, which is trust but verify. And stop solving every problem for everybody because you like being needed. Ask them what they have already tried.
 
-21. One source. Fix: several independent sources.
-22. Estimates treated as facts. Fix: label confidence.
-23. Dismissing contradiction. Fix: seek the report that proves you wrong.
-24. Speaking in absolutes. Fix: state the confidence level and the key assumptions.
-25. No feedback loop. Fix: what execution revealed becomes the next question.
+## 4. Your ego.
 
-## Ego
+This is the one that kills more leaders than any enemy does. Believing that your position makes you right. Not being able to say I was wrong, when saying it publicly actually makes people trust you more. Surrounding yourself with people who agree with you because it is comfortable, when you should be promoting the person who disagrees with you the most intelligently. Taking the credit and passing the blame, when it has to go the other way around, credit goes down and blame comes up, I own the outcome. Not being able to say I do not know, when the correct sentence is I do not know, I will find out and come back in thirty minutes. Thinking that the last win guarantees the next one. Thinking that the rules do not apply to you, when you should be living the standard harder than you demand it from anybody. Your private behaviour is the real standard, so if you say one thing and do another, everybody knows. Do not chase being liked, be fair and consistent and the respect follows. Do not compare yourself to peers, compare yourself to what the mission requires. Stay curious, because the battlefield does not care about your degree. And do not isolate yourself at the top, go and eat with the people doing the work, because that is the only place where you hear the truth.
 
-26. Believing position makes you right. Fix: separate status from truth.
-27. Cannot admit error. Fix: own it out loud and early.
-28. Cannot say "I don't know". Fix: "I don't know. I will find out by [time]."
-29. Past success as guarantee. Fix: treat every problem as new until proven otherwise.
-30. Overconfidence and under-preparation. Fix: prepare as if the opponent knows your plan.
-31. Comparing to peers. Fix: compete against the standard, not against people.
-32. Intellectual arrogance. Fix: stay curious. The problem does not care about credentials.
-33. Yes-men. Fix: reward whoever finds the flaw.
+## 5. Your people.
 
-## Standards
+People are not interchangeable parts, so know their names and their strengths and what is going on in their lives, because it becomes your problem the moment that performance drops anyway. Do not ignore morale until it has already collapsed. Notice the small wins and say them out loud, specifically, on time, in public, and mark the big wins properly, because people fight harder for a team that notices. Do not burn out your best people just because they are the reliable ones, rotate the load and protect them. Every person should have the next skill that they are building and a visible way to grow under you. No favourites. Get rid of toxic people fast, even if they are your friend, because you are protecting the many from the few. Deal with chronic underperformance with a clear standard, a clear consequence and a clear timeline instead of avoiding the hard conversation. Fear gives you compliance and respect gives you initiative, and public humiliation destroys initiative completely. Shield your people from abuse coming from above you, that is literally the job. Promise less than you deliver. Listen to the juniors because they see what you cannot. And build a shared identity through rituals and hardship that you go through together, because that is what cohesion is made of.
 
-34. Unclear standard. Fix: define "what right looks like" in observable terms.
-35. "Good enough" as culture. Fix: reset the standard publicly when it slips.
-36. Saying one thing, doing another. Fix: private behaviour is the real standard.
-37. Punishing failed initiative. Fix: punish negligence, never calculated risk.
-38. Blaming the system. Fix: you own everything inside your span of control.
+## 6. Your standards.
 
-## Delegation and team
+A standard that is unclear is not a standard, so define what right looks like in terms that you can actually observe. Then enforce it the same way, every time, for everyone, or change it. You can have all the empathy in the world for the person and still hold them accountable for the result, those two do not conflict. Do not punish initiative when it fails, punish negligence, never a calculated risk. Do not have two sets of rules. If you cannot train people to the standard, then you have no right to demand it. Discipline has to be immediate and proportional, not delayed because you were hoping that it would fix itself and not massive because you were frustrated. Write things down because facts protect everybody. When good enough starts becoming the culture, and it will when everybody is tired, reset the standard publicly. And stop blaming the system. Everything inside your span of control is your culture and you own it.
 
-39. Micromanagement. Fix: define the outcome, not the method. Inspect results.
-40. Delegating without context, authority, or resources. Fix: give all three or do not delegate.
-41. Solving every problem for them. Fix: "What have you already tried?"
-42. Silence taken as agreement. Fix: require a spoken yes or no, and a back-brief of intent.
-43. Bad news softened or late. Fix: fast, factual, with the next step.
-44. Praise and correction misplaced. Fix: praise in public, correct in private.
-45. Shooting the messenger. Fix: reward whoever surfaces a problem early.
+## 7. Your plans.
 
-## Sustainment
+A plan is a hypothesis. That is all it is, and you update it when reality tells you something. So start with the intent, which is the purpose, the method and the end state in one paragraph, and read two levels above you before you write it so that it fits into the bigger picture. Plan with the people who will actually execute it. Write down the if this, then that in advance, because not having branches is just optimism. Logistics is not an afterthought, logistics is the plan. Whatever time you think it will take, add 50% for friction, because map time and real time are different things. Wargame it, even fifteen minutes of someone attacking your plan saves you hours later. Define how you will know that you are winning. Plan for the enemy that you actually have and not the one that you wish you had, and assume that he adapts faster than you do, because early success makes you think that he will cooperate. Put your resources into the main effort and accept the risk everywhere else, because spreading everything fairly is how you lose everywhere. Plan what you do after you win, so that you are not standing there surprised when it works. And match your tempo to the nature of the fight, not to your impatience.
 
-46. Logistics as an afterthought. Fix: time, energy, tools, and materials are the first planning factor.
-47. Running without refit. Fix: a force that cannot sustain cannot win. Recovery is part of the plan and is the operator's call.
-48. No reflection. Fix: a short after-action review of your own conduct, daily or weekly.
-49. Stopping learning. Fix: the moment you stop learning, you start failing.
+## 8. What you know and what you risk.
 
-## Under pressure
+Go and actively look for the report that proves you wrong. Have several independent sources and not one that you like. Do not treat an estimate as a fact, label how confident you are. List your assumptions and attack every one of them. Name the top three risks and what you are doing about each one, and then accept what is left over and decide, because being paralysed by risk is just fear with better vocabulary. Ask how the other side will counter what you are about to do. Do not rely on a system without knowing what you do when it fails. Talk to the people who actually live there instead of only trusting the technical data. Keep everybody's picture of the situation updated, do not over classify what your people need in order to win, and watch your own mouth and your own digital footprint. And whatever you saw during execution becomes the next question that you ask.
 
-50. Freezing. Fix: drill the first 30 seconds until it is reflex.
-51. Changing plan in contact without cause. Fix: hold the plan unless the situation has fundamentally changed.
-52. Missing the window. Fix: recognise the fleeting opening and act.
-53. Reporting to look good. Fix: truth over image, especially to yourself.
-54. Not using everything available. Fix: ask "What else can help?"
+## 9. What keeps you running.
+
+Supply is the first planning factor and not the last. Decide what the priority is, because when everything is important nothing is. Maintain your equipment even when the tempo is high. Use the historical numbers for how fast you burn through things and add a buffer, do not plan on hope. Protect the rear because it is part of the fight. Have a plan for when the supply gets cut. Plan the worst case for casualties. Count your people and your equipment every single day. And rest and refit, because a force that cannot sustain itself cannot win.
+
+## 10. When it is actually on.
+
+Under fire, people freeze, and the only fix is that you trained the decision so many times that it is automatic, so drill the first thirty seconds until it is a reflex. Your face is the morale of the whole unit, so control it. Be where the critical decision is being made, but do not be the hero at the front who gets pinned down, because you cannot command from there. Do not change the plan in the middle of contact just because you are stressed, stick to it unless the situation has fundamentally changed. But when a window opens, recognise it and move, inside the other side's decision cycle. Know in advance what everybody does when communications go down. After contact, consolidate straight away, which is security, accountability and redistribution, before the adrenaline makes you sloppy. Report what is true and not what makes you look good. And ask what else can help, because you are probably not using everything that you have.
+
+## 11. Your character.
+
+The truth is the only position that you can sustain, so do not lie upwards and do not lie downwards. Do not cover for someone's misconduct and call it loyalty, your loyalty is to the standard. Take nothing that creates an obligation. Your authority is a trust and not your property. Zero tolerance for anything that destroys cohesion, and that is not negotiable. Do not let your ethics depend on the situation, it is the hard right over the easy wrong. Discipline the individual and protect the innocent, never collective punishment. And decide your non negotiables in advance, because under pressure is the worst possible time to be working out what you stand for.
+
+## 12. Your team.
+
+Trust is competence plus character plus consistency, and you do not get it by only focusing on tasks. Culture is whatever you tolerate, so confront the toxic pockets early. Leaders share the worst conditions. Mix people up so that cliques do not form. Onboard new people deliberately because they are combat power. Compete against the standard and never against each other. Reward the person who brings you the bad news early. Celebrate the system that made the hero possible and not only the hero. Resolve conflicts between people or decide them, because left alone they spread. And build leaders who can operate without you, because a team that depends on you is your ego and not your achievement.
+
+## 13. You.
+
+You cannot demand what you do not demonstrate, so stay fit. Sleep is a weapon and the martyr thing is not a strategy. Be seen where the work is hard. Your emotional state is contagious, so control your temper. Take care of your own admin so that you can take care of other people. Have a mentor who will tell you the truth. Reflect, daily or weekly, an after action review on your own leadership. Protect time for thinking and time for people instead of living in reactive mode. Carry yourself properly when it matters, because presence communicates before words do. And never stop learning. The moment that you stop learning is the moment that you start failing. Read, listen, adapt.

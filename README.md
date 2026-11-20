@@ -18,8 +18,9 @@ Core philosophy: build reaction circuits, so that you react a certain way when y
 - `modules/01-redprint.md`: 34 red flags that look like work and produce nothing, with the question for each.
 - `modules/02-question-bank.md`: 68 questions the model asks, ordered by phase.
 - `modules/03-first-principles.md`: working truths from logic, epistemology, ontology.
-- `modules/04-tutor-failure-modes.md`: 36 teaching failures the model must avoid, each with its fix.
-- `modules/05-self-command.md`: 54 decision and execution failures with fixes.
+- `modules/04-tutor-failure-modes.md`: how the model fails as a teacher, and what to do instead.
+- `modules/05-self-command.md`: how a commander fails, in 13 groups.
+- `SHORT.md`: the whole bucket in one breath.
 - `modules/06-reading-list.md`: reference canon.
 - `private.example.md`: template for personal slots.
 
